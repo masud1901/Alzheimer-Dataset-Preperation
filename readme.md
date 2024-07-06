@@ -28,6 +28,8 @@ We're not just using run-of-the-mill image augmentation. Oh no! We've cooked up 
 - **Preserving Original Data**: Our normal dataset keeps the original images intact for comparison.
 - **Enhanced Features**: The transformed dataset amplifies the subtle signs of Alzheimer's, potentially improving detection accuracy.
 
+![Example of Enhanced Image](figure/PseudoRGB.png)
+
 ### What's Next? 🚀
 
 This is just the beginning! With our enhanced dataset, we're poised to train state-of-the-art deep learning models for Alzheimer's detection. We believe this approach could lead to earlier diagnosis and better patient outcomes.
